@@ -1,0 +1,118 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.logochanel img{
+    height: 100px;
+    width: 150px;
+}
+.link_a ul{
+    list-style: none; 
+    display: flex;
+    
+}
+.link_a ul li {
+    /* margin: 15px 50px; */
+    display: flex;
+    justify-content: flex-end;
+}
+.link_a ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    /* margin: 50px;
+    padding-top: 15px; */
+}
+.search form {
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+}
+.search button {
+    margin-right: 60%;
+    background-color: black;
+    color: white;
+}
+.img_banner img {
+    height: 100%;
+    width: 100%;
+}
+ h1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+.body {
+    margin-left: 150px;
+}
+.sale_off {
+    float: left;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: 2px 2px 5px 5px rgb(161, 159, 159) ;
+    margin: 20px;
+    height: 100%;
+    width: 20%;
+    
+}
+.sale_off img{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+.sale_off h4 {
+    font-size: 10px;
+    text-align: center;
+}
+.sale_off p {
+    text-align: center;
+    color: red;
+}
+.sale_off del {
+    color: gray;
+}
+.buy_now {
+    text-align: center;
+    background-color: rgb(207, 158, 21);
+    
+    padding: 10px;
+    margin: 10px 30%;
+    border-radius: 10px;
+}
+.container {
+    display: flex;
+}
+
+.chanel_n5 {
+    border: 2px solid rgb(255, 253, 253);
+    box-shadow: 2px 2px 5px 5px rgb(161, 159, 159) ;
+    margin: 50px;
+    height: 50%;
+    width: 50%;
+}
+.chanel_n5 img {
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+.chanel_n5 h3 {
+    font-size: 30px;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+}
+.vip {
+    background-image: url(../images/Banner02.jpg);
+    height: 300px;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    color: black;
+}
+.vip h2 {
+    color: white;
+    padding: 30px 20%;
+    font-size: 45px;
+}

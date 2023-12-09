@@ -1,0 +1,33 @@
+
+.service-text {
+    background-color: rgba(100, 95, 95, 0.6) !important;
+    color: rgb(212, 209, 209);
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding-left: 20px;
+}
+h3 {
+    font-size: 20px;
+}
+h2 {
+    text-align: center;
+}
+.row div div  {
+    background-color: rgb(173, 171, 167);
+    margin: auto;
+}
+.text-title {
+    font-size: 20px;
+}
+.footer {
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+    background-color: rgb(41, 49, 49);
+}
+.col-md-3  {
+    margin: 20px;
+    
+}

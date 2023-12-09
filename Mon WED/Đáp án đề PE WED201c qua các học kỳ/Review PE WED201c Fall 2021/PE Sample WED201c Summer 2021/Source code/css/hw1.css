@@ -1,0 +1,30 @@
+.left {
+    display: none;
+}
+header h1 {
+    text-transform: uppercase;
+}
+header nav a {
+    background-color: rgb(141, 141, 136); ;
+}
+header {
+    text-align: center;
+    color: yellow;
+    background-color: rgb(169, 170, 170);
+}
+main {
+    background-color: rgb(192, 197, 197);
+}
+.right h2 {
+    color: rgb(102, 102, 95);
+    text-transform: uppercase;
+}
+.right table {
+    margin-left: 30%;
+}
+.right table th {
+    background-color: yellow;
+}
+/* #myform {
+    display: none;
+} */

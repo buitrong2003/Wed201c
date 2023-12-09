@@ -1,0 +1,26 @@
+.container {
+    background-color: rgb(48, 47, 47);
+}
+.monan {
+    color: white;
+    margin: 25px;
+}
+.footer {
+    color: rgb(255, 251, 251);
+    background-color: rgb(131, 131, 131);
+    padding: 15px;
+    border-top: 2px solid rgb(206, 206, 142);
+}
+.footer .text-center {
+    padding-top: 15px;
+}
+.monan h1 {
+    text-align: center;
+    color: yellow;
+}
+.monan p {
+    padding-left: 10px;
+}
+.monan img {
+    height: 300px;
+}

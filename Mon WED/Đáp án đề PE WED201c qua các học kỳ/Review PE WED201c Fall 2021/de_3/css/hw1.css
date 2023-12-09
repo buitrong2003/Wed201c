@@ -1,0 +1,51 @@
+header {
+    background-color: cadetblue;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+nav a {
+    background-color: darkcyan;
+    margin: 40px;
+    background-size: 40px;
+    padding: 10px 50px ;
+    border-radius: 8px;
+    font-size: 15px;
+    text-decoration: none;
+}
+.top a img {
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+}
+.top {
+    /* margin-left: 30%; */
+    text-align: center;
+}
+.bottom h2 {
+    color: darkcyan;
+}
+/* table {
+    display: none;
+} */
+
+#team{
+    background-color: darkgoldenrod;
+    float: left;
+    width: 50%;
+}
+#team th {
+    background-color: darkorange;
+    font-size: 20px;
+}
+#myform {
+    float: right;
+    background-color: yellow;
+}
+#myform caption {
+    font-size: 20px;
+    background-color: yellow;
+}
+.active {
+    background-color: burlywood;
+}
